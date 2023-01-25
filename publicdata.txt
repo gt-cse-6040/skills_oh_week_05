@@ -1,0 +1,17 @@
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/children.json
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/clean_children.json
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/clean_children_phase_0.json
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/learnpython_top_800_all.json
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/normalized_children.json
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/similarity_matrix.json
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/stopwords.json
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/tc_1
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/tc_2
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/tc_3a
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/tc_3b
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/tc_4
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/tc_5
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/tc_6
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/tc_7
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/tc_8
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/vectorized_children.json
