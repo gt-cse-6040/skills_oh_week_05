@@ -1,3 +1,11 @@
+if [ -d "resource" ]; then
+  rm -r resource
+fi
+
+if [ -d "tester_fw" ]; then
+  rm -r tester_fw
+fi
+
 mkdir tester_fw
 mkdir -p resource/asnlib/publicdata/encrypted
 mkdir resource/asnlib/public
