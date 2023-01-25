@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/encrypted/tc_1
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/encrypted/tc_2
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/encrypted/tc_3a
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/encrypted/tc_3b
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/encrypted/tc_4
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/encrypted/tc_5
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/encrypted/tc_6
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/encrypted/tc_7
+https://raw.githubusercontent.com/gt-cse-6040/skills_oh_week_05/main/resource/asnlib/publicdata/encrypted/tc_8
